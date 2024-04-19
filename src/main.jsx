@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom'
 import './syles.css'
 import { HeroesApp } from './HeroesApp'
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
